@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  data-testid="todo-1"
+>
+  <strike
+    data-testid="strike"
+  >
+    <h1>
+      wash dishes
+    </h1>
+  </strike>
+</div>
+`;
